@@ -1,0 +1,27 @@
+body {
+  background-color: #cff6cf;
+  font-family: Courier;
+
+}
+
+h1 {
+  color : #649d66;
+}
+
+h3{
+  color : #649d66;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+
+  width : 5%;
+  border-width: 5px;
+  border-color : grey;
+}
+img {
+  height: 200px;
+  width : 200px;
+}
